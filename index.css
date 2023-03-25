@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+}
+
+#topic {
+    font-size: 32px;
+    font-weight: 600;
+    color: purple;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.image {
+    width: 500px;
+    height: 500px;
+}
+
+.image-name {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 5px;
+}
