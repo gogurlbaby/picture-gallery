@@ -36,12 +36,12 @@ const changeName1 = document.getElementById("image1");
 
   const changeName7 = document.getElementById("image_3");
   changeName7.addEventListener("click", (event) => {
-    event.target.style.background = "purple";
-    event.target.style.color = "white";
+    event.target.style.background = "brown";
+    event.target.style.color = "pink";
   })
 
   const changeName8 = document.getElementById("image_4");
   changeName8.addEventListener("click", (event) => {
     event.target.style.background = "green";
-    event.target.style.color = "pink";
+    event.target.style.color = "white";
   })
